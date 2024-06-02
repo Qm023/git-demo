@@ -6,5 +6,7 @@ void main()
 
     printf("master");
 
+    printf("branch");
+
     return 0;
 }
