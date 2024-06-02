@@ -1,8 +1,8 @@
 void main()
 {
-    printf("hello world! \n");
+    printf("hello");
 
-    printf("hi");
+    printf("branch");
 
     return 0;
 }
