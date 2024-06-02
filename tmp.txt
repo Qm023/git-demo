@@ -1,6 +1,10 @@
 void main()
 {
-    printf("hello");
+    printf("hello world! \n");
+
+    printf("hi ");
+
+    printf("master");
 
     return 0;
 }
